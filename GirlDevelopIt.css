@@ -1,0 +1,32 @@
+/*
+* Riley Cochran
+* 01/01/19
+* Girl Develop it!
+*/
+
+/* The universal selector */
+
+* {
+
+}
+/*  Body Attributes here */
+
+body {background-color: #ffe6e6;
+}
+
+
+    h1{font-family: cursive, fantasy, sans-serif}
+    h3{font-family: cursive, fantasy, sans-serif}
+header{text-align: center}
+header{
+    background-color:  #ff6666
+}
+#laptops{width: 200px; height: 150px; float:right;}
+#computer{width: 200px; height: 150px; float:right;}
+
+a:hover, a:focus {
+    color:deeppink; 
+    text-decoration: underline; font-size: 135%;}
+a:active {
+    color:darkorchid
+}
